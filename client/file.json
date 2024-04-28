@@ -1,0 +1,18 @@
+{
+    "_id": {
+      "$oid": "04d5cef51d251020bb5a"
+    },
+    "msv": "20020005",
+    "name": "Bùi Văn Duy",
+    "birthday": {
+      "$date": "2022-07-18T00:00:00.000Z"
+    },
+    "gender": "Nam",
+    "phone": "0124778992",
+    "address": "Nghệ An",
+    "sum_of_credits": 50,
+    "gpa": 1.6,
+    "status": "Nguy cơ nghỉ học",
+    "lop": "K65-Cb",
+    "__v": 0
+  }
